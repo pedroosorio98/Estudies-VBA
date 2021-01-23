@@ -1,2 +1,2 @@
 # Estudos-VBA
-Aqui publico os meus estudos sobre VBA
+Aqui publico alguns dos meus estudos sobre VBA
