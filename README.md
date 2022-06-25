@@ -1,2 +1,2 @@
-# Estudos-VBA
+# Studies-VBA
 A few VBA studies
